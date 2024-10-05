@@ -1,0 +1,11 @@
+@use 'colors' as *;
+* {
+	box-sizing: border-box;
+	font-family: "Inter", sans-serif;
+}
+html{
+	font-size: 62.5%;
+}
+body{
+	background-color: $darkTheme-bg;
+}
